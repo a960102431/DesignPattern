@@ -1,0 +1,18 @@
+{
+    "name": "gaoyunfeng/design-pattern",
+    "description": "design-pattern example",
+    "authors": [
+        {
+            "name": "Gao YunFeng",
+            "email": "960102431@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+	"autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    }
+}
